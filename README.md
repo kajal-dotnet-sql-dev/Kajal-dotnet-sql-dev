@@ -2,7 +2,7 @@
 
 ## Software Engineer
 
-## Skills
+### Skills
 - SQL Server
 - ASP.NET Core
 - Angular
@@ -16,5 +16,4 @@
 
 ### Connect With Me
 - LinkedIn
-- Upwork
-- Fiverr
+
